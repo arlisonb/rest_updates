@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appcast>
+  <item>
+    <title>Versão 1.0</title>
+    <description>Primeira versão com suporte a atualização automática via WinSparkle.</description>
+    <enclosure url="https://seusite.com/instalador_novo.exe" sparkle:version="1.0" />
+  </item>
+</appcast> 
