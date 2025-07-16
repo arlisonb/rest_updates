@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <appcast>
   <item>
-    <title>Versão 1.0</title>
-    <description>Primeira versão com suporte a atualização automática via WinSparkle.</description>
-    <enclosure url="https://seusite.com/instalador_novo.exe" sparkle:version="1.0" />
+    <title>Guedão v1.0.0</title>
+    <description>
+      <![CDATA[
+      <h2>Nova versão disponível!</h2>
+      <ul>
+        <li>Correções de bugs</li>
+        <li>Melhorias na interface</li>
+        <li>Otimizações de performance</li>
+        <li>Novas funcionalidades</li>
+      </ul>
+      ]]>
+    </description>
+    <enclosure url="https://github.com/arlisonb/rest_updates/releases/download/v1.0.0/GuedaoSetup.exe" 
+               sparkle:version="1.0.0" 
+               sparkle:os="windows"
+               length="357286912"
+               type="application/octet-stream" />
   </item>
 </appcast> 
