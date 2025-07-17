@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <appcast>
   <item>
-    <title>Guedão v1.1.0</title>
+    <title>Guedão v1.1.1</title>
     <description>
       <![CDATA[
       <h2>Nova versão disponível!</h2>
@@ -11,12 +11,12 @@
         <li>Melhorias na interface</li>
         <li>Otimizações de performance</li>
         <li>Novas funcionalidades</li>
-        <li>Atualização de teste (1.1.0)</li>
+        <li>Atualização de teste (1.1.1)</li>
       </ul>
       ]]>
     </description>
-    <enclosure url="https://github.com/arlisonb/rest_updates/releases/download/v1.1.0/GuedaoSetup_v110.exe" 
-               sparkle:version="1.1.0" 
+    <enclosure url="https://github.com/arlisonb/rest_updates/releases/download/v1.1.1/GuedaoSetup_v111.exe" 
+               sparkle:version="1.1.1" 
                sparkle:os="windows"
                length="357286912"
                type="application/octet-stream" />
